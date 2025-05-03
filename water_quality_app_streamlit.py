@@ -27,7 +27,7 @@ if st.session_state.page == "cover":
     except FileNotFoundError:
         st.warning("Logo not found. Make sure 'wasser_logo.png' is in the same directory.")
 
-    st.title("💧 Welcome to Wasser")
+
     st.subheader("AI-based Water Quality Prediction App")
     st.markdown("""
     This application allows you to input yearly water quality parameters and forecast future values 

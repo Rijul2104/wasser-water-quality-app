@@ -1,5 +1,6 @@
+
 streamlit
 pandas
-matplotlib
 statsmodels
-pillow
+matplotlib
+Pillow
